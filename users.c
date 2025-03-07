@@ -26,9 +26,9 @@ void list_users() {
                 }
             }
         }
-        fclose(file); // Не забывайте закрывать файл
+        fclose(file);
     } else {
-        perror("Ошибка открытия файла"); // Используйте perror для вывода ошибки
+        perror("Ошибка открытия файла");
     }
     
     return ;

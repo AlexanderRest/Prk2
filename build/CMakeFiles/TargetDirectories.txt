@@ -1,3 +1,0 @@
-/home/sa/Prk2/build/CMakeFiles/rebuild_cache.dir
-/home/sa/Prk2/build/CMakeFiles/pr2.dir
-/home/sa/Prk2/build/CMakeFiles/edit_cache.dir
